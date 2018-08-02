@@ -1,5 +1,5 @@
 # JobAppDemo
-Here's a demo of the challenge we set potential dev hires:
+Here's the challenge we set potential dev hires here at Sempo:
 ------------
 What we really value in developers is the ability to just get stuff done, so we've got a challenge for you: give yourself two-ish hours to build something fun. It can be absolutely anything you want, with a few requirements:
 - You need to build something from scratch
